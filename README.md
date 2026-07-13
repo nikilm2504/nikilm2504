@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+Backend+Engineer;Building+scalable+backend+systems;Designing+robust+system+architectures" alt="Typing SVG" />
 
-![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-7dd3fc?style=for-the-badge&logo=google-jobs&logoColor=white)
+![Building production-ready backend systems](https://img.shields.io/badge/OPEN%20TO%20WORK-7dd3fc?style=for-the-badge&logo=google-jobs&logoColor=white)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nikilm2504&color=7dd3fc&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/nikilm2504?color=7dd3fc&style=flat-square&label=Followers)
