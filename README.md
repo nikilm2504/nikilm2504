@@ -120,7 +120,7 @@ Production-inspired digital payment platform backend built using Java and Spring
 - User Registration
 - Secure Authentication
 - Wallet Management 
-- Money Transfer *(Upcoming)*
+- Money Transfer 
 - Transaction History *(Upcoming)*
 - Redis Caching *(Upcoming)*
 - Notification Service *(Upcoming)*
