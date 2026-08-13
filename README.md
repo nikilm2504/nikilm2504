@@ -141,7 +141,7 @@ Production-inspired digital payment platform backend built using Java and Spring
 | Maven | ✅ |
 | Flyway | ✅ |
 | Docker | ✅ |
-| Spring Security | 🔄 |
+| Spring Security | ✅ |
 | Redis | 🔄 |
 | Kafka | 🔄 |
 | Kubernetes | 📅 |
