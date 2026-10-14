@@ -100,7 +100,7 @@ Currently, I'm building **PamaPay**, a production-inspired digital payment platf
 
 ## 💳 PamaPay
 
-Production-inspired digital payment platform backend built using Java and Spring Boot.
+Production-inspired digital payment platform backend built using Java and Spring Boot
 
 ### Tech Stack
 
